@@ -1,22 +1,5 @@
 import streamlit as st
-import numpy as np
 import pandas as pd
-
-# for data visualization
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# for jupyter notebook widgets
-import ipywidgets as widgets
-from ipywidgets import interact
-from ipywidgets import interact_manual
-
-# for Interactive Shells
-from IPython.display import display
-
-# setting up the chart size and background
-plt.rcParams['figure.figsize'] = (16, 8)
-plt.style.use('fivethirtyeight')
 
 from PIL import Image
 
