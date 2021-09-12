@@ -1,6 +1,9 @@
 # Movie-Analysis-and-Recommendation-System
 Performing analysis and basic recommendations based on similar genres and movies which users prefer.
 
+Developed an interactive web page to perform initial Exploratory Data Analysis using streamlit.
+Step to run: streamlit run movie_recommend_app.py
+
 1. Data Cleaning
 	a. Dropped columns not required for analysis
 	b. Checked percentage of missing values in each columns and dropped missing values from gross and budget because they had comparitvely high percent of missing values.
